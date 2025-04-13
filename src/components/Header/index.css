@@ -1,0 +1,46 @@
+.main{
+    display:flex;
+    flex-direction: row;
+    background-color: black;
+   
+    position: fixed;
+    width:100vw;
+    top:0;
+    height:10vh;
+  
+}
+.imgs{
+    height: 50px;
+    width: 150px;
+}
+.imges{
+    height: 20px;
+
+    width: 30px;
+}
+.padd{
+    padding:20px;
+    
+
+}
+.paddy{
+    padding:20px;
+    margin-right:20px;
+    margin-left:480px;
+}
+.padds{
+   
+    margin-right:20px;
+    margin-left:20px;
+}
+.searchBar{
+  margin-top: 20px;
+    height: 25px;
+    width: 180px;
+
+}
+.drop-down{
+    margin:10px;
+    color: white;
+    background-color: black;
+}

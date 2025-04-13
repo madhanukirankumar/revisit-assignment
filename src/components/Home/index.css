@@ -1,0 +1,75 @@
+.small-box{
+    display: flex;
+    flex-direction: row;
+ 
+}
+.grid-box{
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+   padding: 10px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+    border-radius: 8px;
+    background-color: white;
+    margin-bottom: 16px;
+}
+.imgg{
+    height: 25px;
+    width: 25px;
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.mains{
+    display: flex;
+    flex-direction: column;
+    background-color:#090e57;
+    color:white;
+    width:15vw;
+   
+}
+.bars{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10vh;
+}
+.first-line{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:85vw;
+    
+    
+}
+.namee{
+    margin: 10px;
+}
+.grid-img{
+    height: 180px;
+    width: 200px;
+}
+.sec-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 65px;
+}
+.para-name{
+    font-weight: bold;
+}
+.para-name2{
+    font-weight: 100;
+}
+.butt1{
+    background-color: blue;
+    color: white;
+}
+.cat{
+    margin-left: 70px;
+}
+.catt{
+    margin-right: 130px;
+}
